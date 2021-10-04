@@ -160,7 +160,3 @@ a{
     padding: 35px 0;
     background: #E7F5F8;
 }
-@media only screen and (max-width : 480px) {
-    .wrapper  {
-        width: 320px;
-    }
